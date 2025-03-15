@@ -37,6 +37,7 @@ function postData(name,phoneNum,address,city,state){
            .then(res => {
               if(res.ok){
                 console.log("successfully stored the data")
+                display()
               }
            })
            .catch(err => console.log(err))
