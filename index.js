@@ -36,8 +36,8 @@ function postData(name,phoneNum,address,city,state){
     fetch(url,options)
            .then(res => {
               if(res.ok){
+                displayData()
                 console.log("successfully stored the data")
-                display()
               }
            })
            .catch(err => console.log(err))
@@ -46,7 +46,7 @@ function postData(name,phoneNum,address,city,state){
 
 
 
-function display(){
+function displayData(){
     var displayContainer = document.getElementById("display-container")
 
     fetch("https://traveling-sprout-nigella.glitch.me/userAddress")
@@ -80,4 +80,4 @@ function display(){
     }
 
 
-display()
+displayData()
