@@ -1,0 +1,44 @@
+{
+  "userAddress": [
+    {
+      "id": "8343",
+      "name": "Bhanu",
+      "phoneNum": "09876543",
+      "address": "16-11-741, B/1/A, Moosarambagh Rd, near Vijaya Diagnostic Center, Indira Nagar, Dilsukhnagar, Hyderabad, Telangana 500036",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "193b",
+      "name": "viart",
+      "phoneNum": "1234567890",
+      "address": "hyderabad,kbph",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "6366",
+      "name": "dell",
+      "phoneNum": "0987654321",
+      "address": "assam",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    },
+    {
+      "id": "5e50",
+      "name": "name",
+      "phoneNum": "0987654321",
+      "address": "address",
+      "city": "city",
+      "state": "Telangana"
+    },
+    {
+      "id": "c120",
+      "name": "",
+      "phoneNum": "Murali",
+      "address": "2-21/2 malkapur bibipet kamareddy",
+      "city": "Kamareddy",
+      "state": "Telangana"
+    }
+  ]
+}
